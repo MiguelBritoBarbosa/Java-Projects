@@ -1,0 +1,1 @@
+javac -Xstdout "C:\Users\User\Documents\Programas\Laboratório Java\err.x" "semnome2.java "
